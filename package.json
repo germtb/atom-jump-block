@@ -1,0 +1,19 @@
+{
+  "name": "alt-up",
+  "main": "./lib/alt-up",
+  "version": "0.1.0",
+  "description": "This package provide better means for navigating with keyboard",
+  "keywords": [
+    "navigation",
+    "text"
+  ],
+  "activationEvents": [
+    "atom-plugin:run"
+  ],
+  "repository": "https://github.com/germtb/alt-up-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,44 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Move to the block above",
+				"command": "alt-up:up"
+			}, {
+				"label": "Move to the block below",
+				"command": "alt-up:down"
+			}, {
+				"label": "Extend to the block above",
+				"command": "alt-up:extend-up"
+			}, {
+				"label": "Extend to the block below",
+				"command": "alt-up:extend-down"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "alt-up",
+					"submenu": [
+						{
+							"label": "Move to the block above",
+							"command": "alt-up:up"
+						}, {
+							"label": "Move to the block below",
+							"command": "alt-up:down"
+						}, {
+							"label": "Extend to the block above",
+							"command": "alt-up:extend-up"
+						}, {
+							"label": "Extend to the block below",
+							"command": "alt-up:extend-down"
+						}
+					]
+				}
+			]
+		}
+	]
+}

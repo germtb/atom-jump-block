@@ -1,0 +1,8 @@
+{
+	"atom-workspace atom-text-editor:not([mini])": {
+		"alt-up": "alt-up:up",
+		"alt-shift-up": "alt-up:extend-up",
+		"alt-down": "alt-up:down",
+		"alt-shift-down": "alt-up:extend-down"
+	}
+}
