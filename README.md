@@ -1,6 +1,15 @@
 # alt-up
 
-This package provide some little functionalities for very common text
-manipulation patterns.
+Better text navigation with keyboard.
 
-![](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## How to use
+
+Use <kbd>alt</kbd> + <kbd>up</kbd> to go up a paragraph
+
+Use <kbd>alt</kbd> + <kbd>down</kbd> to go down a paragraph
+
+Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>up</kbd> to go up a paragraph extending selection
+
+Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>down</kbd> to go down a paragraph extending selection
+
+![](https://dl.dropboxusercontent.com/u/140127353/AltUpAnimation.gif)
