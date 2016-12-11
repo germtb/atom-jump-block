@@ -1,8 +1,6 @@
 # alt-up
 
-This package provide some little functionalities for very common text
-manipulation patterns.
-
+Better text navigation with keyboard.
 
 ## How to use
 
