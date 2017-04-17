@@ -2,7 +2,7 @@
   "name": "atom-jump-block",
   "main": "./lib/jump-block",
   "version": "0.4.2",
-  "description": "Jump blocks like a hop",
+  "description": "Jump blocks with a hop",
   "keywords": [
     "code-navigation"
   ],

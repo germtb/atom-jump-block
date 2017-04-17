@@ -1,15 +1,15 @@
-# alt-up
+## `jump-block`
 
 Better text navigation with keyboard.
 
 ## How to use
 
-Use <kbd>alt</kbd> + <kbd>up</kbd> to go up a paragraph
+Use <kbd>alt</kbd> + <kbd>up</kbd> (or <kbd>alt</kbd> + <kbd>k</kbd>) to go up a block
 
-Use <kbd>alt</kbd> + <kbd>down</kbd> to go down a paragraph
+Use <kbd>alt</kbd> + <kbd>down</kbd> (or <kbd>alt</kbd> + <kbd>j</kbd>) to go down a block
 
-Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>up</kbd> to go up a paragraph extending selection
+Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>up</kbd> (or <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>k</kbd>) to go up a block extending selection
 
-Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>down</kbd> to go down a paragraph extending selection
+Use <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>down</kbd> (or <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>j</kbd>) to go down a block extending selection
 
-![](https://dl.dropboxusercontent.com/u/140127353/AltUpAnimation.gif)
+![](https://raw.githubusercontent.com/germtb/gifs/master/atom-jump-block.gif)
