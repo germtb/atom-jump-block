@@ -1,0 +1,12 @@
+{
+	"atom-workspace atom-text-editor:not([mini])": {
+		"alt-up": "jump-block:up",
+		"alt-shift-up": "jump-block:extend-up",
+		"alt-down": "jump-block:down",
+		"alt-shift-down": "jump-block:extend-down",
+		"alt-k": "jump-block:up",
+		"alt-shift-k": "jump-block:extend-up",
+		"alt-j": "jump-block:down",
+		"alt-shift-j": "jump-block:extend-down"
+	}
+}
