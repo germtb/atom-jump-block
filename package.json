@@ -1,5 +1,5 @@
 {
-  "name": "jump-block",
+  "name": "atom-jump-block",
   "main": "./lib/jump-block",
   "version": "0.4.1",
   "description": "Jump blocks like a hop",
