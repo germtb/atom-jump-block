@@ -1,7 +1,7 @@
 {
   "name": "atom-jump-block",
   "main": "./lib/jump-block",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Jump blocks with a hop",
   "keywords": [
     "code-navigation"
